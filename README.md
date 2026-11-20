@@ -20,7 +20,7 @@
 ### Pull The Image
 
 ```bash
-$ docker pull ghcr.io/akafeng/bird
+docker pull ghcr.io/teranyu/bird:latest
 ```
 
 ### Start Container
@@ -34,5 +34,5 @@ $ docker run -d \
   --network=host \
   --restart=always \
   --name=bird \
-  ghcr.io/akafeng/bird
+  ghcr.io/teranyu/bird:latest
 ```
