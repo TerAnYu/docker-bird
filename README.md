@@ -11,8 +11,8 @@
 <p align="center">
     <img src="https://img.shields.io/github/actions/workflow/status/TerAnYu/docker-bird/push.yml?branch=main" />
     <img src="https://img.shields.io/github/last-commit/TerAnYu/docker-bird" />
-    <img src="https://img.shields.io/github/v/release/TerAnYu/docker-bird" />
-    <img src="https://img.shields.io/github/release-date/TerAnYu/docker-bird" />
+    <img src="https://img.shields.io/github/v/tag/TerAnYu/docker-bird" />
+    <img src="https://img.shields.io/github/languages/top/TerAnYu/docker-bird" />
 </p>
 
 ---
