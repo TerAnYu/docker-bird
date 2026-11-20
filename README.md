@@ -4,7 +4,8 @@
 
 <p align="center">
     <a href="https://ghcr.io/akafeng/bird">Container Registry</a> ·
-    <a href="https://bird.network.cz">Project Source</a>
+    <a href="https://bird.network.cz">Project Source</a> ·
+    <a href="https://bird.nic.cz/get-bird/">Download Latest</a>
 </p>
 
 <p align="center">
